@@ -1,16 +1,34 @@
 # casa_de_eventos
 
-A new Flutter project.
+## Índice
 
-## Getting Started
+- <a href="#funcionalidades" >Funcionalidades</a>
+- <a href="#layout">Layout</a>
+- <a href="#tecnologias-utilizadas" >Tecnologias utilizadas</a>
+- <a href="#como-executar">Como executar</a>
+- <a href="#autores">Autores</a>
+- <a href="#tarefas-futuras">Tarefas Futuras</a>
 
-This project is a starting point for a Flutter application.
+## Funcionalidades
 
-A few resources to get you started if this is your first Flutter project:
+- [x] 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Layout
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Tecnologias utilizadas
+
+
+## Como executar
+
+
+## Autores
+
+<img style="width:300px" src="https://avatars.githubusercontent.com/u/57687873?v=4" alt="foto do desenvolvedor">
+
+[Linkedin](https://www.linkedin.com/in/bruno-felipe-608a85219/)
+
+## Tarefas Futuras
+
+- 
+
