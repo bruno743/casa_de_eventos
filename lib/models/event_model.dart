@@ -30,7 +30,7 @@ class Event extends Equatable {
     const Event(
       id: '3',
       description: 'Show com música ao vivo',
-      url: 'assets/images/banda.png',
+      url: 'assets/images/musica.png',
     ),
   ];
 }
