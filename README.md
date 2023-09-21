@@ -11,16 +11,33 @@
 
 ## Funcionalidades
 
-- [x] 
+- [x] Menu de eventos
+- [x] Carrinho de compra
+- [ ] Autenticação de usuário
 
 ## Layout
 
 
 ## Tecnologias utilizadas
 
+- [Flutter](https://flutter.dev/)
+- [Visual Studio Code](https://code.visualstudio.com/)
 
 ## Como executar
 
+```
+# Clone este repositório
+$ git clone https://github.com/bruno743/casa_de_eventos.git
+
+# Acesse a pasta do projeto
+$ cd casa_de_eventos
+
+# Instale as dependências
+$ flutter pub get
+
+# Execute a aplicação
+```
+Para iniciar a aplicação no VS Code é preciso selecionar o dispositivo em que será executada e iniciar a depuração. Mais detalhes na documentação do Flutter, na seção [Test drive](https://docs.flutter.dev/get-started/test-drive).
 
 ## Autores
 
@@ -30,5 +47,6 @@
 
 ## Tarefas Futuras
 
-- 
-
+- Adicionar funcionalidade de autenticação
+- Criar página para deetalhes do evento
+- Criar funcionalidade de pagamento
