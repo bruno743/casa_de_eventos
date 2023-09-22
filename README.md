@@ -17,6 +17,10 @@
 
 ## Layout
 
+<div style="display:flex">
+  <img style="width:300px" src="./layout/tela1.png" alt="tela_home">
+  <img style="width:300px" src="./layout/tela2.png" alt="tela_cart">
+</div>
 
 ## Tecnologias utilizadas
 
